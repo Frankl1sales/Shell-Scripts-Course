@@ -34,8 +34,8 @@ A estrutura do projeto é organizada da seguinte forma:
 ## Como Usar
 
 Primeiro, clone o repositório para sua máquina local:
-   **` git https://github.com/Frankl1sales/shell-scripts-course.git`**
-   **`cd shell-scripts-course`**
+   - **` git https://github.com/Frankl1sales/shell-scripts-course.git`**
+   - **`cd shell-scripts-course`**
    
 E mãos à obra! 
 
