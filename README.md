@@ -35,15 +35,11 @@ A estrutura do projeto é organizada da seguinte forma:
 
 Primeiro, clone o repositório para sua máquina local:
    ``m̀arkdown
-   git https://github.com/Frankl1sales/shell-scripts-course.git
-   cd shell-scripts-course
+   **` git https://github.com/Frankl1sales/shell-scripts-course.git`**
+   **`cd shell-scripts-course`**
    
 E mãos à obra! 
 
-- **` ```bash `** e **` ``` `**: Usados para criar blocos de código no Markdown. No seu caso, usamos o identificador `bash` para destacar que o código é um comando de shell.
-- O texto fora das tags de código é usado para instruções adicionais, como "E mãos à obra!".
-
-Isso garantirá que somente o código seja e
 ## Licença
 
 Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
