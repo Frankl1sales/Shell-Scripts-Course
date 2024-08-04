@@ -1,4 +1,7 @@
 # Projeto de Shell Scripts
+<p align="center">
+  <img src="/imagesample.jpg" alt="Estrutura do Projeto" width="400"/>
+</p>
 
 Este repositório contém scripts e recursos para um projeto de shell script. O objetivo deste projeto é fornecer uma estrutura organizada para armazenar e executar scripts de shell, com exemplos e recursos úteis.
 
