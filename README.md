@@ -34,7 +34,7 @@ A estrutura do projeto é organizada da seguinte forma:
 ## Como Usar
 
 Primeiro, clone o repositório para sua máquina local:
-   
+   ``m̀arkdown
    git https://github.com/Frankl1sales/shell-scripts-course.git
    cd shell-scripts-course
    
