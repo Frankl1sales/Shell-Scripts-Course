@@ -1,5 +1,5 @@
 # Projeto de Shell Scripts
-
+<p align="center">
   <img src="/imagesample.jpg" alt="Estrutura do Projeto" width="400"/>
 </p>
 
