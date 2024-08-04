@@ -46,10 +46,9 @@ E mãos à obra!
 
 ## Fontes
 Links e Fontes Relevantes
-    - Shell Scripting Tutorial - GeeksforGeeks (https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/)
-    - The Linux Command Line - William Shotts
-    - Bash Scripting Guide - The Linux Documentation Project
-    - GNU Bash Reference Manual
+    - [Shell Scripting Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/)
+    - [Bash Scripting Guide - The Linux Documentation Project](https://tldp.org/guides.html)
+    - [GNU Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 ## Licença
 
