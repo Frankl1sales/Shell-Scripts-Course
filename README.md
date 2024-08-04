@@ -1,4 +1,5 @@
 # Projeto de Shell Scripts
+![Texto alternativo](/imagesample.jpg)
 
 Este repositório contém scripts e recursos para um projeto de shell script. O objetivo deste projeto é fornecer uma estrutura organizada para armazenar e executar scripts de shell, com exemplos e recursos úteis.
 
