@@ -45,10 +45,9 @@ Primeiro, clone o repositório para sua máquina local:
 E mãos à obra! 
 
 ## Fontes
-Links e Fontes Relevantes
-    - [Shell Scripting Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/)
-    - [Bash Scripting Guide - The Linux Documentation Project](https://tldp.org/guides.html)
-    - [GNU Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+- [Shell Scripting Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/)
+- [Bash Scripting Guide - The Linux Documentation Project](https://tldp.org/guides.html)
+- [GNU Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 ## Licença
 
