@@ -2,14 +2,7 @@
 
 Este repositório contém scripts e recursos para um projeto de shell script. O objetivo deste projeto é fornecer uma estrutura organizada para armazenar e executar scripts de shell, com exemplos e recursos úteis.
 
-
-## Índice
-
-- [Estrutura](#estrutura)
-- [Como Usar](#como-usar)
-- [Licença](#licença)
-
-## Estrutura
+## Estrutura do Projeto
 
 A estrutura do projeto é organizada da seguinte forma:
 
@@ -30,17 +23,19 @@ A estrutura do projeto é organizada da seguinte forma:
 - **`logs/`**: Arquivos de log para registrar a atividade do projeto.
   - **`activity.log`**: Log de atividades do projeto.
 
-
 ## Como Usar
 
-Primeiro, clone o repositório para sua máquina local:
-
+1. Torne o script executável:
    ```bash
-   git https://github.com/Frankl1sales/shell-scripts-course.git
-   cd shell-scripts-course
+   chmod +x examples/exemplo2/script1.sh
+2. Executar:
+   ./examples/exemplo4/script1.sh
+   ou 
+   ./script1.sh
    
-E mãos à obra! 
+3. Verificar os Logs
+   Os logs das atividades são registrados no diretório logs. Você pode visualizar o arquivo   activity.log para acompanhar o histórico de atividades:
+   
+   cat logs/activity.log
 
-## Licença
-
-Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+ 
