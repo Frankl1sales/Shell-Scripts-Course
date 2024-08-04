@@ -10,7 +10,9 @@ Este repositório contém scripts e recursos para um projeto de shell script. O 
 
 - [Estrutura](#estrutura)
 - [Como Usar](#como-usar)
+- [Fontes](#fontes)
 - [Licença](#licença)
+
 
 ## Estrutura
 
@@ -41,6 +43,11 @@ Primeiro, clone o repositório para sua máquina local:
    - **`cd shell-scripts-course`**
    
 E mãos à obra! 
+
+## Fontes
+- [Shell Scripting Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/)
+- [Bash Scripting Guide - The Linux Documentation Project](https://tldp.org/guides.html)
+- [GNU Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 ## Licença
 
